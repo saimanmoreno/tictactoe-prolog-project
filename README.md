@@ -1,9 +1,8 @@
 # tictactoe-prolog-project
-Criação do jogo da velha (tic tac toe) em Prolog
+<h3> Criação do jogo da velha (tic tac toe) em Prolog </h3>
 
 Para o projeto da disciplina de programação em logica, 3º ano do curso de Engenharia Informática e de 
-Computadores, o nosso grupo composto por eu, Simão Moreno e Ariana Horta, sugerimos o tema que consiste 
-na criação do jogo Frik Frak, em crioulo, mas conhecido como o jogo da velha em português. O jogo será 
+Computadores, sugerimos o tema que consiste na criação do jogo Frik Frak, em crioulo, mas conhecido como o jogo da velha em português. O jogo será 
 desenvolvido utilizando a linguagem Prolog e a interface na linguagem Java (javafx)
 
 <h3> Descrição </h3>
